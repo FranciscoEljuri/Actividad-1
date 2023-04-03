@@ -1,0 +1,35 @@
+
+#barra{
+    margin-top: 40px;
+}
+p{
+    text-align: center;
+}
+h4{
+    padding-left: 250px;
+}
+#col1{
+    background-color: aqua;
+}
+#col2{
+    background-color: gold;
+}
+#col3{
+    background-color: coral;
+}
+#col4{
+    background-color: crimson;
+}
+
+#col1, #col2, #col3, #col4 {
+  margin: 0;
+  padding: 2%;
+  flex-basis: 25%;
+    color: white;
+}
+.nav-pills .nav-link {
+  color: white;
+}
+.nav-pills:hover .nav-link:hover {
+  color: darkgrey;
+}
